@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg id="concepto" height="486px" width="720px" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" onload="init(evt)" inkscape:version="0.48.5 r10040" sodipodi:docname="Nuevo documento 3">
+  <defs id="defs" />
+  <script id="funcs" type="application/ecmascript"><![CDATA[
+function init(evt) {
+	if ( window.svgDocument == null ) {
+		svgDoc = evt.target.ownerDocument;
+	}
+}
+function showitem(item) {
+	svgDoc.getElementById(item).setAttributeNS(null,"opacity","1");
+}
+function hideitem(item) {
+	svgDoc.getElementById(item).setAttributeNS(null,"opacity","0");
+}
+]]></script>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1" inkscape:cx="174.5" inkscape:cy="243" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1855" inkscape:window-height="1056" inkscape:window-x="65" inkscape:window-y="24" inkscape:window-maximized="1" />
+  <metadata id="meta">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="viewport" inkscape:label="Layer 1" inkscape:groupmode="layer">
+    <rect id="bg" x="0" y="0" height="486" width="720" style="fill:#90c3c1;stroke:#000000;stroke-width:1" />
+    <g id="g1" onmouseover="showitem('lab1')" onmouseout="hideitem('lab1')">
+      <rect id="ele1" x="108" y="51" height="162" width="249" style="fill:#00ff4c;stroke:#000000;stroke-width:1" />
+		<g id="lab1" opacity="0">
+		  <rect id="rect3333" x="4" y="152" height="117" width="121" style="opacity:1;fill:#d7d7d7;stroke:#000000;stroke-width:1" />
+		  <text id="text3321" x="63" y="187" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve"><tspan
+			 id="tspan3323" x="63" y="187" sodipodi:role="line">asda</tspan></text>
+		  <text id="text3325" x="62" y="218" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve"><tspan
+			 id="tspan3327" x="62" y="218" sodipodi:role="line">aaa</tspan></text>
+		  <text id="text3329" x="50" y="256" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve"><tspan
+			 id="tspan3331" x="50" y="256" sodipodi:role="line">ass</tspan></text>
+		</g>
+    </g>
+    <g id="g2" onmouseover="showitem('lab2')" onmouseout="hideitem('lab2')">
+      <path id="ele2" style="fill:#ffaa00;stroke:#000000;stroke-width:1" d="m 563,262 a 156,142 0 1 1 -312,0 156,142 0 1 1 312,0 z" sodipodi:type="arc" sodipodi:cx="407" sodipodi:cy="262" sodipodi:rx="156" sodipodi:ry="142" />
+		<g id="lab2" opacity="0">
+		  <rect id="rect3346" x="413" y="64" height="117" width="121" style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1" />
+		  <text id="text3348" x="472" y="99" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve" sodipodi:linespacing="121%"><tspan
+			 id="tspan3350" x="472" y="99" sodipodi:role="line">asda</tspan></text>
+		  <text id="text3352" x="471" y="130" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve" sodipodi:linespacing="121%"><tspan
+			 id="tspan3354" x="471" y="130" sodipodi:role="line">bbb</tspan></text>
+		  <text id="text3356" x="459" y="168" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve" sodipodi:linespacing="121%"><tspan
+			 id="tspan3358" x="459" y="168" sodipodi:role="line">ass</tspan></text>
+		</g>
+    </g>
+  </g>
+</svg>

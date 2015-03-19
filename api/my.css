@@ -1,0 +1,7 @@
+body{padding-top:50px}
+.center-area{padding:40px 15px;text-align:center}
+.center-area>div{margin:0 auto}
+
+.at:before{content:"@"}
+.dot:before{content:"."}
+.catch{display:inline-block;width:0;overflow:hidden}
