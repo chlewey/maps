@@ -32,24 +32,18 @@ function hideitem(item) {
       <rect id="ele1" x="108" y="51" height="162" width="249" style="fill:#00ff4c;stroke:#000000;stroke-width:1" />
 		<g id="lab1" opacity="0">
 		  <rect id="rect3333" x="4" y="152" height="117" width="121" style="opacity:1;fill:#d7d7d7;stroke:#000000;stroke-width:1" />
-		  <text id="text3321" x="63" y="187" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve"><tspan
-			 id="tspan3323" x="63" y="187" sodipodi:role="line">asda</tspan></text>
-		  <text id="text3325" x="62" y="218" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve"><tspan
-			 id="tspan3327" x="62" y="218" sodipodi:role="line">aaa</tspan></text>
-		  <text id="text3329" x="50" y="256" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve"><tspan
-			 id="tspan3331" x="50" y="256" sodipodi:role="line">ass</tspan></text>
+		  <text id="text3321" x="63" y="187" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve"><tspan id="tspan3323" x="63" y="187" sodipodi:role="line">asda</tspan></text>
+		  <text id="text3325" x="62" y="218" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve"><tspan id="tspan3327" x="62" y="218" sodipodi:role="line">aaa</tspan></text>
+		  <text id="text3329" x="50" y="256" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve"><tspan id="tspan3331" x="50" y="256" sodipodi:role="line">ass</tspan></text>
 		</g>
     </g>
     <g id="g2" onmouseover="showitem('lab2')" onmouseout="hideitem('lab2')">
       <path id="ele2" style="fill:#ffaa00;stroke:#000000;stroke-width:1" d="m 563,262 a 156,142 0 1 1 -312,0 156,142 0 1 1 312,0 z" sodipodi:type="arc" sodipodi:cx="407" sodipodi:cy="262" sodipodi:rx="156" sodipodi:ry="142" />
 		<g id="lab2" opacity="0">
 		  <rect id="rect3346" x="413" y="64" height="117" width="121" style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1" />
-		  <text id="text3348" x="472" y="99" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve" sodipodi:linespacing="121%"><tspan
-			 id="tspan3350" x="472" y="99" sodipodi:role="line">asda</tspan></text>
-		  <text id="text3352" x="471" y="130" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve" sodipodi:linespacing="121%"><tspan
-			 id="tspan3354" x="471" y="130" sodipodi:role="line">bbb</tspan></text>
-		  <text id="text3356" x="459" y="168" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve" sodipodi:linespacing="121%"><tspan
-			 id="tspan3358" x="459" y="168" sodipodi:role="line">ass</tspan></text>
+		  <text id="text3348" x="472" y="99" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve" sodipodi:linespacing="121%"><tspan id="tspan3350" x="472" y="99" sodipodi:role="line">asda</tspan></text>
+		  <text id="text3352" x="471" y="130" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve" sodipodi:linespacing="121%"><tspan id="tspan3354" x="471" y="130" sodipodi:role="line">bbb</tspan></text>
+		  <text id="text3356" x="459" y="168" style="font-size:32px;text-align:center;text-anchor:middle;font-family:Sans" xml:space="preserve" sodipodi:linespacing="121%"><tspan id="tspan3358" x="459" y="168" sodipodi:role="line">ass</tspan></text>
 		</g>
     </g>
   </g>

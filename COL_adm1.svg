@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Svg file produced by GpsPrune - see http://activityworkshop.net/ -->
-<svg width="800" height="700">
+<svg height="700" width="800">
 <defs><radialGradient id="wayfill" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5"><stop offset="0%" stop-color="#2323aa"/><stop offset="100%" stop-color="#000080"/></radialGradient>
 <radialGradient id="trackfill" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5"><stop offset="0%" stop-color="#23aa23"/><stop offset="100%" stop-color="#008000"/></radialGradient></defs>
-<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
-<path style="fill:#446666;stroke:#000000;" d="M 126,409 L 473,573 L 673,290 L 326,126 z" id="rect1" />
+<g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer">
+<path id="rect1" style="fill:#446666;stroke:#000000;" d="M 126,409 L 473,573 L 673,290 L 326,126 z" />
 <text x="500" y="208" font-size="26" fill="black" stroke="white" stroke-width="0.5">N</text>
 <text x="573" y="431" font-size="26" fill="black" stroke="white" stroke-width="0.5">E</text>
 <text x="300" y="491" font-size="26" fill="black" stroke="white" stroke-width="0.5">S</text>
