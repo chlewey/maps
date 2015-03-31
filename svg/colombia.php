@@ -1,6 +1,7 @@
 <?php
 ob_start();
-?><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+echo '<?xml version="1.0" encoding="UTF-8" standalone="no"?>';
+?>
 <svg id="colombia" height="2100" width="1700" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" onload="init(evt)">
 	<script id="svgpan" xlink:href="SVGPan.js" />
 	<script id="funcs" type="application/ecmascript"><![CDATA[
