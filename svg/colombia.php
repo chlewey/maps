@@ -26,7 +26,8 @@ $c = readcsv('deptos.csv',null,null,1);
 foreach($c as $k=>$l) {
 	$r = file_get_contents($fn = $l['uname'].'.path.2');
 	$p = explode("\n",$r);
-	if(!empty($u = array_pop($p))) array_push($p,$u);
+	$u = array_pop($p);
+	if(!empty($u)) array_push($p,$u);
 	$d = 'M'.implode('zM',$p).'z';
 	$c[$k]['count'] = 0;
 	$c[$k]['valor'] = 0.0;
